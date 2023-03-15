@@ -6,5 +6,6 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+        //HŽV
     }
 }
