@@ -6,5 +6,7 @@ namespace ConsoleApp3
 {
     class NewClass
     {
+
+        //nova metoda
     }
 }
